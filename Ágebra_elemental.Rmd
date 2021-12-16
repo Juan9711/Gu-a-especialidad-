@@ -1,0 +1,40 @@
+---
+title: "Álgebra"
+author: "Díaz López Juan Manuel"
+date: "15/12/2021"
+output: 
+  prettydoc::html_pretty:
+    theme: "hpstr"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Los números reales
+
+Los elementos pertenecen a conjuntos y un conjunto está formado por todos sus elementos, por lo tanto, **2 conjuntos son iguales solo si sus elementos lo son**. 
+
+Por ejemplo, al conjunto de números que utilizamos para "*contar*" se les conoce como números naturales: 
+
+$$\mathbb{N} = 1,2,3,4,...$$
+$$\mathbb{N} U 0= 0,1,2,3,4,...$$
+
+Además de estos existen otros conjuntos, por ejemplo:
+
+* Números enteros: 
+
+$$\mathbb{Z} = ...,-3,-2,-1,0,1,2,3....$$
+
+* Números racionales: 
+
+$$\mathbb{Q} = m/n:m\in\mathbb{Z}n\in\mathbb{Z}yn\neq0$$
+
+La contención de los conjuntos anteriores está dada de la siguiente forma : 
+
+$$\mathbb{N}\subset\mathbb{R}\subset\mathbb{Q}$$
+
+Todos los números reales pueden representarse en la recta numérica y al verlos como un conjunto serían la union de los números $\mathbb{R}$ con los $\mathbb{I}$.
+
+El conjunto de los $\mathbb{R}$ cumple una serie de propiedades, las cuales se enlistarán a continuacoón: 
+
