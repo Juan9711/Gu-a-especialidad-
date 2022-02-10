@@ -32,9 +32,16 @@ $$\mathbb{Q} = m/n:m\in\mathbb{Z}n\in\mathbb{Z}yn\neq0$$
 
 La contención de los conjuntos anteriores está dada de la siguiente forma : 
 
-$$\mathbb{N}\subset\mathbb{R}\subset\mathbb{Q}$$
+$$\mathbb{N}\subset\mathbb{Z}\subset\mathbb{Q}$$
 
 Todos los números reales pueden representarse en la recta numérica y al verlos como un conjunto serían la union de los números $\mathbb{R}$ con los $\mathbb{I}$.
 
+## Propiedades de los número Reales
+
 El conjunto de los $\mathbb{R}$ cumple una serie de propiedades, las cuales se enlistarán a continuacoón: 
 
+### Conmutatividad de la suma
+
+El orden de operar 2 elementos no depende del orden en el que se tomen, por lo tanto:
+
+$$a+b=b+a\forall a,b\in\mathbb{R}$$
